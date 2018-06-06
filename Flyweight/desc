@@ -1,0 +1,15 @@
+/** 
+ * STRUCTURAL DESIGN PATTERNS
+ * Concerned with how objects are made up and simplify relationships between objects.
+ * Deal with the relationship of objects.
+ * Extend functionality OR
+ * Simplify functionality.
+ * ==========================
+ * * Flyweight Pattern *
+ * --------------------------
+ * -- Conserves memory by sharing portions of an object between objects.
+ * -- Shares data across objects
+ * -- Results in a smaller memory footprint
+ * -- Like a boxer --- a flyweight...
+ * -- But only if you have a large numbers of objects
+ */
