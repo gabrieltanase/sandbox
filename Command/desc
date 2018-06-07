@@ -1,0 +1,16 @@
+/** 
+ * BEHAVIORAL DESIGN PATTERNS
+ * Concerned with the assignment of responsibilities between objects and how they communicate.
+ * Deals with responsibilities of objects
+ * Help objects cooperate
+ * Assign clear hierarchy
+ * Can encapsulate requests
+ * ==========================
+ * * Command Pattern *
+ * --------------------------
+ * - Encapsulate the calling of a method as an object.
+ * - Fully decouples the execution from the implementation.
+ * - Allows for less fragile implementations.
+ * - Support undo operations.
+ * - Supports auditing and logging of operations.
+ */

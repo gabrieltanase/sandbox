@@ -1,0 +1,15 @@
+/** 
+ * BEHAVIORAL DESIGN PATTERNS
+ * Concerned with the assignment of responsibilities between objects and how they communicate.
+ * Deals with responsibilities of objects
+ * Help objects cooperate
+ * Assign clear hierarchy
+ * Can encapsulate requests
+ * ==========================
+ * * Mediator Pattern *
+ * --------------------------
+ * - Controls communication between objects so neither object has to be coupled to the others
+ * - Allows for a loosely copupled system
+ * - One object manages all communication
+ * - Many to many relationships
+ */
